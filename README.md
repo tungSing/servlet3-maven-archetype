@@ -5,7 +5,7 @@
 2. 执行mvn install 命令。
 3. 修改本地 archetype-catalog.xml文件
 
-```java
+```xml
     <archetype>
       <groupId>cc.tungsing</groupId>
       <artifactId>servlet3-maven-archetype</artifactId>
