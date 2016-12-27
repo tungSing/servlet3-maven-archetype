@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archetype>
-	<id>servlet3-maven-archetype</id>
-	<resources>
-		<resource>src/main/webapp/WEB-INF/web.xml</resource>
-	</resources>
-</archetype>
